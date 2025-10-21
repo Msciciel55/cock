@@ -1,0 +1,5 @@
+{
+  "name": "A Matter of Time - Celestial Clock",
+  "description": "A web-based recreation of the 'A Matter of Time' mod interface from Skyrim, featuring an animated celestial clock that reflects the current system time. The application showcases a fantasy-themed UI with rotating dials and orbiting celestial bodies.",
+  "requestFramePermissions": []
+}
